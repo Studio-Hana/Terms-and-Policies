@@ -11,14 +11,24 @@
 > 서비스를 통해 당사와 상호작용할 때, 당사는 다음과 같은 경우에 귀하가 제공하는 정보를 귀하로부터 수집할 수 있습니다.
 ****
 
-**서비스를 가입했을 경우 Studio Hana에 제공되는 정보**
+**서비스를 사용할 경우 Studio Hana에 제공되는 정보**
 
 > Discord User ID (디스코드 유저 고유아이디)
+> 
 > Discord User TAG (디스코드 유저 고유번호)
+> 
 > Discord User Name (디스코드 유저 이름)
+> 
 > Discord User Profile picture (디스코드 유저 프로필사진)
+> 
 > Discord User Join Date (디스코드 유저 가입날짜)
+> 
 > Chat log or command log (채팅로그 및 명령어 사용로그)
+
+**급식 서비스를 사용할 경우 Studio Hana에 제공되는 정보**
+> School Information (학교 정보)
+> 
+> School board information (교육청 정보)
 ****
 
 ## 정보 처리 장소
